@@ -9,7 +9,7 @@
 PATH="/Applications/MAMP/bin/php/php5.5.10/bin:/usr/local/bin:/usr/local/sbin:~/bin:${PATH}"
 export PATH
 
-alias legacyfs="mkdir -p /Volumes/www.migrate.dev.propellerheads.se && sshfs ubuntu@www.migrate.dev.propellerheads.se:/ /Volumes/www.migrate.dev.propellerheads.se"
+alias la="ls -a"
 
 alias pycleanup="find . -type f -name '*.py[co]' -delete; find . -type d -name '__pycache__' -delete"
 
