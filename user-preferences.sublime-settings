@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Soda (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": false,
+	"font_face": "Inconsolata",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Enhanced HTML and CFML",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 0,
+	"remember_open_files": false,
+	"show_encoding": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
